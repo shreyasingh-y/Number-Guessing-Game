@@ -13,7 +13,7 @@
 - **Student Name:** Shreya Singh
 - **ERP Number:** RU-26-04631
 - **Section:** B
-- **Submitted To:** [@SATYAPRAKASHSETHY](https://github.com/SATYAPRAKASHSETHY)/(Satyaprakash Sir)
+- **Submitted To:** [@SATYAPRAKASHSETHY](https://github.com/SATYAPRAKASHSETHY)
 
 ---
 
